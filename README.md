@@ -4,6 +4,13 @@
 The goal of this project is to analyze a **Sales Pipeline CRM dataset** using **SQL and Python (via SQLAlchemy)** to extract actionable business insights.  
 The project helps understand sales performance, agent efficiency, product profitability, and deal success rates.
 
+## Dashboards
+
+![customer_dashboard](https://github.com/CodeWithGauravRajput/CRM-Data-Analysis-SQL/blob/main/CRM%20(Customer%20Relationship%20Manager)/CRM%20Dashboards%20Images/CRM-Product%20%26%20Sales%20Dashborad.jpg)
+
+![Sales Dashboard](https://github.com/CodeWithGauravRajput/CRM-Data-Analysis-SQL/blob/main/CRM%20(Customer%20Relationship%20Manager)/CRM%20Dashboards%20Images/Accounts%20%26%20Sales_Team%20Dashborad.jpg)
+
+
 ---
 
 ## 🧩 Dataset Details  
@@ -23,36 +30,31 @@ The project helps understand sales performance, agent efficiency, product profit
 - **Programming Language:** Python,sql  
 - **Libraries:** SQLAlchemy, Pandas  
 - **Database:** CRM Dataset  
-- **Visualization Tool:** Power BI (Dashboard in progress)  
+- **Visualization Tool:** Power BI  
 - **IDE:** VS Code, Jupyter Notebook  
 
 ---
 
-## 📊 Power BI Dashboard (In Progress)  
+## 📊 Power BI Dashboard  
 The dashboard will include visuals for:  
 - 💰 Total Revenue by Product  
 - 👨‍💼 Top Performing Sales Agents  
-- 📈 Agent Success Rate  
-- ⏳ Average Deal Duration by Stage  
+- 📈 Top Comapnies and Manager  
+- ⏳ Average Deal Duration by Stage  etc..
 
 ---
 
 ## 🚀 Business Insights  
-- **Darcel Schlecht** is the **highest-earning agent** by total deal value.  
-- **Hayden Neloms** and **Maureen Marcano** are the **most efficient closers**.  
-- **GTK 500** is the **most profitable product**, but **GTX Series** drives **major volume**.  
+- **Darcel Schlecht** is the **highest-earning agent** by total Won deal value.
+- **Reed Clapper** and **Garret Kinder** have **Higher success rate** 
+- **Cecily Lampkin** and **Rosie Papadopoulos** are the **most Fastest deal closers**.  
+- **GTKXPro** Product is the **Give Highest profitable Deal**, and **GTX Series** drives **major volume**.  
 - **Software sector** dominates **total revenue**.  
 - **West region** leads **regional performance**.  
-- **Summer Sewald** is the **top-performing manager**.  
-- **Kan-code** is the **top customer**, winning the most deals.  
-- **May** is the **peak sales month** — ideal for **campaign launches**.
-
----
-
-## 🏁 Next Steps  
-- Add Power BI dashboard visuals to the repository.  
-- Automate SQL queries with Python scripts.  
-- Extend analysis with predictive insights using Python ML.  
+- **Summer Sewald** is the **top-performing manager by Highest Revenue**.
+- - **Melvin Marxen** is the **top-performing manager by Highest Close value deals**.  
+- **Kan-code** is the **top Comapany**, winning the most deals.  
+- **June** is the **peak sales month** — ideal for **campaign launches**.
 
 ---
 
